@@ -70,10 +70,8 @@ Potential future enhancements for the project:
 
 ## Contributors
 
-- Your Name (@your-github-username)
+- MD ARIF
 
 Feel free to contribute to the project by forking the repository and submitting pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
